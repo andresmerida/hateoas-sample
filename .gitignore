@@ -1,0 +1,16 @@
+# ignore files that generate Jetbrains (java Ide)
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+target/
+
+# power designer generate file with extention .cdb we dont use that
+*.cdb
+
+## Mac
+.DS_Store
+
+## Win
+Desktop.ini
