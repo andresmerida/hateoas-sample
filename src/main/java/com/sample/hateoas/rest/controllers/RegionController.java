@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.*;
  */
 
 @RestController
-@ExposesResourceFor(RegionController.class)
+@ExposesResourceFor(RegionResource.class)
 @RequestMapping("/api/regions")
 public class RegionController {
 

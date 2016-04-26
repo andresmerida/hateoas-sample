@@ -42,16 +42,16 @@
             <artifactId>spring-boot-starter-security</artifactId>
         </dependency> <!--for spring security-->
 
-        <dependency>
+        <!--<dependency>
             <groupId>org.springframework.session</groupId>
             <artifactId>spring-session-data-redis</artifactId>
             <version>1.1.0.RELEASE</version>
-        </dependency> <!--for spring session-->
+        </dependency> &lt;!&ndash;for spring session&ndash;&gt;
         <dependency>
             <groupId>com.github.kstyrc</groupId>
             <artifactId>embedded-redis</artifactId>
             <version>0.6</version>
-        </dependency> <!--embedded-redis conection-->
+        </dependency>--> <!--embedded-redis conection-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-aop</artifactId>
